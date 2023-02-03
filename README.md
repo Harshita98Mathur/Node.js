@@ -2,7 +2,7 @@
 
 Node.js is an open-source and cross-platform JavaScript runtime environment. It is a popular tool for almost any kind of project!
 
-# Student managament System - CRUD Application
+# Student Management System - CRUD Application
 
 We developed a CRUD application using Node.js.
 
